@@ -4,7 +4,8 @@
 }
 
 .card {
-	padding: 20px;
+	background-color: #B88750;
+	padding: 40px;
 	display: flex;
 	align-content: center;
 	justify-content: space-between;

@@ -6,3 +6,7 @@
 	font-weight: bold;
 	font-family: 'Roboto', sans-serif;
 }
+
+.btn-blue:hover{
+	background-color: #FF8C42;
+}
